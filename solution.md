@@ -1,0 +1,7 @@
+SOLUTION TO THE KEYPAD CHALLENGE
+CODE 1 ----->	820
+CODE 2 ----->	120
+CODE 3 ----->	125
+CODE 4 ----->	500
+CODE 5 ----->	280
+
